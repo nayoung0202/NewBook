@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab92318d-85f3-4407-944c-1e1beb4558a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newbook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/BM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/BM2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/BookManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/EBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/Execute.java" afterDir="false" />
+    <list default="true" id="ab92318d-85f3-4407-944c-1e1beb4558a8" name="Changes" comment="(1) 도서 관리 프로그램 기초 코드 BM&#10;(2) 도서 관리 프로그램 BM2,EBooK,AudioBook/ getter,setter, 생성자 추가, 종류에 따른 수정, 등록, 조회 수정">
+      <change beforePath="$PROJECT_DIR$/src/base/AudioBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/AudioBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,8 +78,17 @@
       <option name="presentableId" value="Default" />
       <updated>1699273774832</updated>
       <workItem from="1699273775914" duration="2806000" />
-      <workItem from="1699360316223" duration="4678000" />
+      <workItem from="1699360316223" duration="5067000" />
     </task>
+    <task id="LOCAL-00001" summary="(1) 도서 관리 프로그램 기초 코드 BM&#10;(2) 도서 관리 프로그램 BM2,EBooK,AudioBook/ getter,setter, 생성자 추가, 종류에 따른 수정, 등록, 조회 수정">
+      <option name="closed" value="true" />
+      <created>1699365367855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699365367855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +104,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(1) 도서 관리 프로그램 기초 코드 BM&#10;(2) 도서 관리 프로그램 BM2,EBooK,AudioBook/ getter,setter, 생성자 추가, 종류에 따른 수정, 등록, 조회 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="(1) 도서 관리 프로그램 기초 코드 BM&#10;(2) 도서 관리 프로그램 BM2,EBooK,AudioBook/ getter,setter, 생성자 추가, 종류에 따른 수정, 등록, 조회 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
